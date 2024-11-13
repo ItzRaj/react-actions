@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Github actions done, new branch created
+          Github actions done, new branch created, secret key created
         </p>
         <a
           className="App-link"
