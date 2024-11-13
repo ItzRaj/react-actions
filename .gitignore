@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#pub & private keys for deploy auth
+react-actions-key
+react-actions-key.pub
